@@ -18,6 +18,7 @@ project:
         - file: 09_Hashing.ipynb
 site:
   template: book-theme
+  base_url: /25-163_Materi-StrukturData
   options:
     # favicon: favicon.ico
     # logo: site_logo.png
