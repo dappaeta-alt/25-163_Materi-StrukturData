@@ -1,0 +1,25 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b22c7c2d-3400-47ed-9bec-229455638721
+  title: Catatan Struktur Data
+  toc:
+    - file: index.md
+    - title: Daftar Materi
+      children:
+        - file: 01_Tugas_Praktikum.ipynb
+        - file: 02_List_dan_Fungsi_Dasar.ipynb
+        - file: 03_Stack.ipynb
+        - file: 04_Infix_Postfix_Prefix.ipynb
+        - file: 05_Queue_dan_Deque.ipynb
+        - file: 06_Sorting.ipynb
+        - file: 07_Sparse_Matrix.ipynb
+        - file: 08_Searching.ipynb
+        - file: 09_Hashing.ipynb
+site:
+  template: book-theme
+  options:
+    # favicon: favicon.ico
+    # logo: site_logo.png
+  head: |
+    <link rel="stylesheet" href="/style.css">
