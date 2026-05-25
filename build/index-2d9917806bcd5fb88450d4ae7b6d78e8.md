@@ -1,0 +1,2 @@
+<img src="site_logo.png" width="150" style="border-radius: 8px; margin-bottom: 20px;">
+
